@@ -1,8 +1,8 @@
 # Header
 menu:
   主页:http://qinxiaoshou.github.io/
-  所有文章: /archives
-  # 随笔: /tags/随笔
+  所有文章: 
+  # 随笔: 
 # SubNav
 subnav:
   github: "#"

@@ -1,9 +1,8 @@
 # Header
 menu:
-  主页: /https://Qinxiaoshou.github.io
+  主页: /http://qinxiaoshou.github.io/
   所有文章: /archives
   # 随笔: /tags/随笔
-theme: yilia
 # SubNav
 subnav:
   github: "#"
